@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://telegram.me/solvnox">
-    <img src="https://img.shields.io/badge/НАПИСАТЬ\_В\_TELEGRAM-18181B?style=for-the-badge\&logo=telegram\&logoColor=2AABEE" alt="Личный Telegram">
+    <img src="https://img.shields.io/badge/Telegram-18181B?style=for-the-badge\&logo=telegram\&logoColor=2AABEE" alt="Личный Telegram">
   </a>
   <a href="https://telegram.me/solvnox\_project">
-    <img src="https://img.shields.io/badge/TELEGRAM--КАНАЛ-18181B?style=for-the-badge\&logo=telegram\&logoColor=2AABEE" alt="Telegram-канал">
+    <img src="https://img.shields.io/badge/Telegram--Канал-18181B?style=for-the-badge\&logo=telegram\&logoColor=2AABEE" alt="Telegram-канал">
   </a>
   <a href="https://www.tiktok.com/@solvnox">
-    <img src="https://img.shields.io/badge/TIKTOK-18181B?style=for-the-badge\&logo=tiktok\&logoColor=FFFFFF" alt="TikTok">
+    <img src="https://img.shields.io/badge/Tik-Tok-18181B?style=for-the-badge\&logo=tiktok\&logoColor=FFFFFF" alt="TikTok">
   </a>
 </p>
 
