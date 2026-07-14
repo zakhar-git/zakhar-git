@@ -52,7 +52,7 @@
       </p>
       <p>
         <a href="https://github.com/zakhar-git/Pamp">
-          <img src="https://img.shields.io/badge/ОТКРЫТЬ\_РЕПОЗИТОРИЙ-202020?style=flat-square\&logo=github\&logoColor=white" alt="Pamp">
+          <img src="https://img.shields.io/badge/Открыть_Репозиторий-202020?style=flat-square\&logo=github\&logoColor=white" alt="Pamp">
         </a>
       </p>
     </td>
