@@ -39,7 +39,7 @@
       </p>
       <p>
         <a href="https://github.com/zakhar-git/Gansar">
-          <img src="https://img.shields.io/badge/ОТКРЫТЬ\_РЕПОЗИТОРИЙ-202020?style=flat-square\&logo=github\&logoColor=white" alt="GANSAR">
+          <img src="https://img.shields.io/badge/Открыть_Репозиторий-202020?style=flat-square\&logo=github\&logoColor=white" alt="GANSAR">
         </a>
       </p>
     </td>
@@ -67,7 +67,7 @@
       </p>
       <p>
         <a href="https://github.com/zakhar-git/QueryForge">
-          <img src="https://img.shields.io/badge/ОТКРЫТЬ\_РЕПОЗИТОРИЙ-202020?style=flat-square\&logo=github\&logoColor=white" alt="QueryForge">
+          <img src="https://img.shields.io/badge/Открыть_Репозиторий-202020?style=flat-square\&logo=github\&logoColor=white" alt="QueryForge">
         </a>
       </p>
     </td>
@@ -80,7 +80,7 @@
       </p>
       <p>
         <a href="https://github.com/zakhar-git/Steam-Recon">
-          <img src="https://img.shields.io/badge/ОТКРЫТЬ\_РЕПОЗИТОРИЙ-202020?style=flat-square\&logo=github\&logoColor=white" alt="SteamRecon">
+          <img src="https://img.shields.io/badge/Открыть_Репозиторий-202020?style=flat-square\&logo=github\&logoColor=white" alt="SteamRecon">
         </a>
       </p>
     </td>
