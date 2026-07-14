@@ -103,9 +103,8 @@
   <img src="https://img.shields.io/badge/Linux-18181B?style=flat-square\&logo=linux\&logoColor=FCC624" alt="Linux">
 </p>
 
-\---
 
-## Где меня найти
+## Где меня найти?
 
 <table>
   <tr>
