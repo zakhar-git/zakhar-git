@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td><b>Telegram-канал</b></td>
-    <td><a href="https://telegram.me/solvnox_project">@solvnox\_project</a></td>
+    <td><a href="https://telegram.me/solvnox_project">@solvnox_project</a></td>
     <td>Статьи, OSINT-инструменты, подборки и обновления проектов</td>
   </tr>
   <tr>
